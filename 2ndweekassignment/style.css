@@ -1,0 +1,51 @@
+  body{background-color: rgba(255,2550,0,0.4);
+  } 
+header> p{
+  text-align: center;
+  color: magenta;
+  font-family: "street slab regu" ;
+font-size: 1.75em;
+  background-color:#add8e6;
+  border-radius :7px;}
+section{
+ font-family: cursive;
+  padding: 0 0 3px 3px;
+ border:1px solid black;
+ border-radius :3px;
+margin:0 5px 5px;
+background-color :#dddddd;} 
+.a{ background-color: brown;
+color:white} 
+.b{ background-color: #39ff14;
+color:black} 
+.c{ background-color: blue;
+color:white} 
+ .head { font-size : 1.25em;
+float: right;
+   font-family: fantasy;
+   position:relative;
+   bottom:1px;
+   left:1px;
+border: 1px solid black;
+border-radius: 0 3px 0 0;
+margin:0px;
+}
+@media(min-width:992px){
+	
+section{width:30%;
+display:inline-block;
+float:left;
+}
+}
+@media(min-width:768px)and (max-width:991px) {
+ section {width:45%;
+ margin: 10px 2%; 
+display: inline-block ;} 
+section:last-child { width: 70%;
+margin:0 15%} 
+}
+@media(max-width:767px){
+section{
+width: 70%;
+margin: 10px 15%;} 
+}
