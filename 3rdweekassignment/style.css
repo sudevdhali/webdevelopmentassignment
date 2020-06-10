@@ -1,0 +1,24 @@
+
+	nav{background-color :black;} 
+  	main{ padding :0 5%;
+		background-color:yellow;}  
+
+div>.parts{
+padding:20px;
+ background-color:#add8e6;
+ margin:20px 0;
+}
+#collapsibleNavbar{background-color : white;} 
+.nav-link{background-color :#005500;} 
+#option{color:white;} 
+#mainheading, .heading{text-align:center;
+padding:10px 0;
+font-size:1.3em;
+} 
+@media(min-width: 768px) {
+	button{
+display:none} 
+} 
+@media(max-width: 767px) {
+main{padding:0 15%;}
+}
