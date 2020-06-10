@@ -1,8 +1,9 @@
 
-	nav{background-color :black;} 
-  	main{ padding :0 5%;
-		background-color:yellow;}  
-
+nav{background-color :black;} 
+main{ padding :0 5%;
+background-color:yellow;}  
+#mainheading{font-size :1.5em;
+font-family : serif;}
 div>.parts{
 padding:20px;
  background-color:#add8e6;
