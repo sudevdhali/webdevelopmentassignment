@@ -9,7 +9,7 @@ font-size: 1.75em;
 	}
 section{
  font-family: cursive;
-  padding: 0 0 3px 3px;
+  padding:10px;
  border:1px solid black;
  border-radius :3px;
 margin:0 5px 5px;
@@ -46,6 +46,6 @@ margin:10px auto;}
 }
 @media(max-width:767px){
 section{
-width: 70%;
+width: 90%;
 margin: 10px 5%;} 
 }
