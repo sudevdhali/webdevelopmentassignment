@@ -41,8 +41,8 @@ float:left;
  section {width:45%;
  margin: 10px 2%; 
 display: inline-block ;} 
-section:last-child { width: 70%;
-margin:0 15%} 
+section:last-child { width: 85%;
+margin:0 auto} 
 }
 @media(max-width:767px){
 section{
