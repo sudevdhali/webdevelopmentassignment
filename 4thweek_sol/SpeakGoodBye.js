@@ -6,3 +6,4 @@ byeSpeaker.speak=function(name) {
 }
 window.byeSpeaker= byeSpeaker;
 }) (window);
+console.log(I am Sudev);
