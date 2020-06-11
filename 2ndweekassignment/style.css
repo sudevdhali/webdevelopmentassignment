@@ -38,7 +38,7 @@ float:left;
 }
 }
 @media(min-width:768px)and (max-width:991px) {
- section {width:45%;
+ section {width:43%;
  margin: 10px 2%; 
 display: inline-block ;
 float:left;
